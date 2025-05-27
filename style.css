@@ -1,0 +1,56 @@
+*{
+    text-decoration: none;
+    color: brown;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    overflow: hidden;
+}
+
+.nav{
+    height: 50px;
+    width: auto;
+    /* background-color: beige; */
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding-top: 3px ;
+    font-size: 16px;
+    background-color: rgb(223, 220, 220)
+}
+
+/* .body {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.body .sec1, .body .sec2 {
+  flex: 1; /* each takes 50% 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.body .sec1 {
+  background-image: url('./assets/Gold\ Bangle\ _\ GRAZIA\ Magazine\ _\ Cartier\ Bangle\,\ Shop\ Now\ _\ Jewellery\ Editorial\ Fashion\ Shoot.jpg');
+}
+
+.body .sec2 {
+  background-image: url('./assets/Statement\ Necklace\ _\ GRAZIA\ Magazine\ _\ Cartier\ Necklace\,\ Shop\ Now\ _\ Editorial\ Fashion\ Shoot.jpg');
+} */
+
+.body{
+    background-image: url('assets/download.jpg');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav .icons{
+      
+}
